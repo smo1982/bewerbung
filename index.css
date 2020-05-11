@@ -1,0 +1,39 @@
+body {
+    background-color: azure;
+    padding: 50px;
+    width: 1200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table {
+   margin: 0 auto;
+   background: rgb(80, 80, 102);
+   border-color: grey;
+    border-width: 5px;
+    border-style: solid ;
+}   
+ 
+tr {
+   background: hsl(76, 92%, 85%);
+   border-bottom: 5px solid #FFF;
+   margin-bottom: 5px;
+}
+
+h1, h2, h3, h4, h5, p, a {
+    text-align: center ;
+}
+
+td {
+    font-size: 18px;
+}
+
+.color1 {
+    background-color: rgb(159, 250, 250);
+}
+
+img {
+    border-color: grey;
+    border-width: 5px;
+    border-style: solid ;
+}
+  
